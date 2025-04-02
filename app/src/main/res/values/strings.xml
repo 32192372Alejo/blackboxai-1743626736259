@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Entrevista Simulator</string>
+    <string name="back">Volver</string>
+    <string name="interviews">Entrevistas</string>
+    <string name="select_interview_type">Seleccione el tipo de entrevista que desea realizar:</string>
+    <string name="technical_practice">Práctica técnica</string>
+    <string name="technical_description">Preguntas sobre código, diseño y arquitectura.</string>
+    <string name="sales">Ventas</string>
+    <string name="sales_description">Preguntas de ventas y escenarios de rol.</string>
+    <string name="product_manager">Gerente de producto</string>
+    <string name="product_description">Preguntas sobre productos y estrategia.</string>
+    <string name="software_engineer">Ingeniero de software</string>
+    <string name="software_description">Preguntas sobre codificación y sistemas.</string>
+    <string name="product_designer">Diseñador de productos</string>
+    <string name="designer_description">Preguntas sobre UX, UI y diseño.</string>
+    <string name="difficulty_level">Nivel de dificultad</string>
+    <string name="easy">Fácil</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Difícil</string>
+    <string name="start_simulation">Iniciar simulación</string>
+    <string name="view_faq">Ver preguntas frecuentes</string>
+</resources>
